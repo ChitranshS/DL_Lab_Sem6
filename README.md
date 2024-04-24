@@ -4,6 +4,7 @@
   
  2. Data Augmentation using DataGen from tensorflow
     - https://github.com/ChitranshS/DL_Lab_Sem6/blob/main/DL_Lab_24_4_24.ipynb
+
 This is repo for all the Semester 6 deep learning laboratory programs done in the college
 
 Lab Website: 
